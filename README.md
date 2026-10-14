@@ -93,5 +93,5 @@ Excel (formulas, charts, data validation) | Data Cleaning | Data Analysis | Dash
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | Project completed as part of Innomatics Research Labs
+**Kiranbabu Kummari**
+LinkedIn(www.linkedin.com/in/kiran-babu-kummari-163b69317) | Project completed as part of Innomatics Research Labs
